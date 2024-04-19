@@ -4,7 +4,7 @@ import Image from "next/image";
 import React from "react";
 import {PortableText} from "@portabletext/react";
 import {MoveLeft} from "lucide-react";
-import Back from "@/app/components/Back";
+
 import Link from "next/link";
 
 export const revalidate = 30;
